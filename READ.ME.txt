@@ -1,0 +1,11 @@
+github: https://github.com/TileBaseGame
+Game Engine: Unity 2018.1.1 Personal
+JDK: 8
+DB Server Version: GCloud Cloud SQL running MySQL version 5.7.16
+Server: GCloud Computer VM Ubuntu 16.04
+
+To run the game locally, please run loadout scene.
+The other scenes depend on the server being on and running.
+
+To download the game:
+https://sfsu.box.com/s/9q205gomb9qp73nevyoin64hjcodwh0q
