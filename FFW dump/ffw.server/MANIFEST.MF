@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: . lib/activation.jar lib/axis.jar lib/commons-dbcp-1.4.jar lib/commons-discovery-0.5.jar lib/commons-logging-1.1.1.jar lib/commons-pool-1.6.jar lib/gson-2.2.2.jar lib/javax.wsdl_1.6.2.v201012040545.jar lib/jaxrpc.jar lib/json_simple-1.1.jar lib/mail.jar lib/mysql-connector-java-5.1.22-bin.jar lib/saaj.jar
+Main-Class: main.GameServer
+
